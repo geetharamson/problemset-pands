@@ -1,0 +1,5 @@
+# python sumupto.py
+i=1       #int
+n= int(input ("Input a number")
+sum = i+1 
+while i<=n :
