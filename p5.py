@@ -1,4 +1,4 @@
-
+# Geetha Karthikesan ,2019
 #python primes.py 
 # num is any positive integer u need to check its prime or not
 num = int (input("Please enter a positive integer:"))
