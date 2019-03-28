@@ -1,6 +1,6 @@
 # Geetha Karthikesan, 2019
 #sumupto a given number 
-# inputing a positive integer  
+# input a positive integer  
 i= int(input("please enter a positive integer:"))
 # entering value of sum as 0
 
