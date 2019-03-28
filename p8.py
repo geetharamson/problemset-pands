@@ -35,3 +35,6 @@ amOrpm = rightnow.strftime("%p")
 
 #print the o/p in the asked format of day,month date year "at" hour am/pm
 print (day + ", " + month + " " + date + dateAppendix + " " + year + " at " + hour + ":" + minute + amOrpm)
+
+#Reference
+https://www.w3schools.com/python/python_datetime.asp
