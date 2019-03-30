@@ -9,3 +9,12 @@ for x in range (0,4):
  power = pow (2,x)
 print ( x, squares , power ) 
 
+def (number)
+
+import matplotlib.pyplot as plt
+plt.plot([0,1,2,3,4][x,x**2,2**x])
+plt.show() 
+
+
+
+---Sorry Ian something is wrong with Matplotlib in my laptop and I dont know to fix it yet. 
