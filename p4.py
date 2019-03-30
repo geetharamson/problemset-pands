@@ -24,5 +24,6 @@ while integer != 1:
     # print integer
     print (integer)
 
-#Reference
-#Adapted from https://stackoverflow.com/questions/33324432/collatz-sequence-python-3
+# Reference
+# python tutorial
+# Adapted from https://stackoverflow.com/questions/33324432/collatz-sequence-python-3
