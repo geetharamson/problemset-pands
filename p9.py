@@ -1,5 +1,5 @@
 # Geetha Karthikesan , 2019
-# p9.py mody-txt
+# p9.py moby-txt
 # Import sys
 import sys 
 
@@ -23,6 +23,10 @@ for line in fileObject :
      # print line and omit the blank space      
       print(line.rstrip())
 
-
 # Closes the fileObject
 fileObject.close()
+
+# Reference
+  #Python Tutorial
+   # geeksforgeeks.org 
+   # python crash course
