@@ -1,5 +1,5 @@
 # Geetha Karthikesan ,2019
-#program to print x ,square of x and 2 exponent x in range (0,4)
+#program to display a plot function  x ,square of x and 2 exponent x in range (0,4)
 
 for x in range (0,4):
     # to find square of no in the range 
