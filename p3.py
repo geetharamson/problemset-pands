@@ -4,11 +4,10 @@
 
 # Using for loop to set n is the no ranging from 1000 to 10000
 for  n in range (1000, 10000):
-  # modulus operator will evaluate 0 only when no is divisible 
+  # checking if the no is completely divisible by 6 and not divisible by 12  based on their remainders
     if n % 6 ==0  and  n % 12 != 0 :
     # print n
-      
-     print (n) 
+    print (n) 
      # increment the value of n by 1  
     n=n+1
 
