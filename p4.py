@@ -1,18 +1,28 @@
+# Geetha Karthikesan , 2019
 # python collatz .py
-# input a positive integer
-#https://stackoverflow.com/questions/33324432/collatz-sequence-python-3
-print("This is The Collatz Sequence")
-num = int (input ("Enter a number: ") )
 
+# calling function def collatz
+def collatz(num):
+    # to check whether the num is fully divisible by 2 with remainder 0
+    if num % 2 == 0:
+        # then divide the num by 2
+        return num // 2
+        # else if num when divided by 2  has remainder of 1
+    elif num % 2 == 1:
+        # return num*3 + 1
+        return 3 * num + 1
 
-def collatz(n):
-    print(n)
-    while n != 1:
-        if n % 2 == 0:
-            n = n // 2
-            print(n)
-        else:
-            n = n * 3 + 1
-            print(n)
+   # inputing a positive no for the integer
+integer = int(input('Enter a positive integer: '))
+  # print the integer
+print (integer)
 
+ # while the integer value isnot equal to 1
+while integer != 1:
+    # integer gets the collatz value of integer
+    integer = collatz(integer)
+    # print integer
+    print (integer)
 
+#Reference
+#Adapted from https://stackoverflow.com/questions/33324432/collatz-sequence-python-3
