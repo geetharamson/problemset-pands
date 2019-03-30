@@ -5,14 +5,8 @@
 # Initialising a string sentence
 sentence = input ("Enter a sentence :")
 
-# Printing Entered Sequence
-print ("Entered sequence : " + sentence)
-
 # To split  each words in the sentence.
 words = sentence.split()
-
-# After spliting each words just printing out the words 
-print (words)
 
 # Using range function to choose alternate words
 for i in range (0,len(words), 2):
