@@ -23,6 +23,7 @@ This repository contains my solutionsto problem set-pands 2019 for the module Pr
   7. p7.py contains my solution to problem 7 squareroot.py  in the problem set- Pands
   8. p8.py  contains my solution to problem 8  datetime.py in the problem set- Pands
   9. p9.py  contains my solution to problem 9 second.py moby-dick.txt  in the problem set- Pands
+      moby.txt contains the text format of MobyDick to run the program
   10. p10.py contains my solution to problem 10 exponents.py in the problem set- Pands
   
 
