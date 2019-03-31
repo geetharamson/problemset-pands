@@ -12,3 +12,5 @@ plt.show()
 
 
 ---Sorry Ian something is wrong with Matplotlib in my laptop and I dont know to fix it yet. 
+# Reference
+# python crash course
