@@ -35,7 +35,7 @@ This repository contains my solutionsto problem set-pands 2019 for the module Pr
 
 # References used 
  
-    Python 3.6 Tutorial
-    Python crash course
-    [stack overflow]( https://stackoverflow.com )
-    [Trey hunner](https://treyhunner.com )
+    w3resource(https://www.w3resource.com/python-exercises/)
+    w3school(https://www.w3schools.com/python/python_exercises.asp)
+    [stack overflow](https://stackoverflow.com)
+    [Trey hunner](https://treyhunner.com)
